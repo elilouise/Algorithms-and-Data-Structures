@@ -11,7 +11,6 @@ This repository is organized into several directories based on different categor
   - **Graphs**
   - **Trees**
   - **Strings**
-  - **... (add more categories as needed)**
 
 - **Study Notes**: Contains notes and explanations on key computer science topics and concepts.
   - **Algorithms and Data Structures**: In-depth notes and explanations on various algorithms and data structures.
