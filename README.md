@@ -9,7 +9,7 @@ This repository is organized into several directories based on different categor
   - **Binary Search**
   - **Sliding Window**
   - **Linked Lists**
-  - **Graphs**
+  - **Two Pointers**
   - **Trees**
   - **Strings**
 
