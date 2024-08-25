@@ -6,8 +6,9 @@ This repository is organized into several directories based on different categor
 
 - **LeetCode Solutions**: Contains solutions to various LeetCode problems, categorized by topic and difficulty.
   - **Arrays**
+  - **Binary Search**
+  - **Sliding Window**
   - **Linked Lists**
-  - **Dynamic Programming**
   - **Graphs**
   - **Trees**
   - **Strings**
