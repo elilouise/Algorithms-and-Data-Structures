@@ -21,7 +21,7 @@ This repository is organized into several directories based on different categor
 
 Navigate the Repository
 
-- **LeetCode Solutions**: Each folder within the "LeetCode Solutions" directory corresponds to a topic (e.g., Arrays, Linked Lists). Inside each folder, you will find subfolders for each difficulty level (Easy, Medium, Hard). Each solution is provided in a separate file named after the problem title (e.g., `two-sum.py` for the "Two Sum" problem).
+- **LeetCode Solutions**: Each folder within the "LeetCode Solutions" directory corresponds to a topic (e.g., Arrays, Linked Lists). Inside each folder, you will find subfolders for each difficulty level (Easy, Medium, Hard). Each solution is provided in a separate file named after the problem title (e.g., `two-sum.ipynb` for the "Two Sum" problem).
 
   - Each solution file contains:
     - **Problem Statement**: A brief description of the problem.
