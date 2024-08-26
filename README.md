@@ -42,6 +42,3 @@ Navigate the Repository
 ## Contributing
 
 If you have suggestions for improvements or want to contribute new solutions or study notes, feel free to submit a pull request. Contributions are welcome!
-
-
-![Leetcode](https://github.com/user-attachments/assets/37927b6b-ba4c-4648-bc8a-4869cbf35667)
