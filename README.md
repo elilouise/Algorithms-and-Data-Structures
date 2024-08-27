@@ -9,8 +9,8 @@ This repository is organized into several directories based on different categor
 - **LeetCode Solutions**: Contains solutions to various LeetCode problems, categorized by topic and difficulty.
   - **Arrays and Hashing**
   - **Binary Search**
-  - **Sliding Window**
   - **Linked Lists**
+  - **Sliding Window**
   - **Two Pointers**
   - **Trees**
 
