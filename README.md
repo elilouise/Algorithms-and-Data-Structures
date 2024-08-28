@@ -27,7 +27,7 @@ Navigate the Repository
     - **Problem Statement**: A brief description of the problem.
     - **Solution Approach**: An explanation of the approach used to solve the problem.
     - **Code**: The solution code with comments.
-    - **Complexity Analysis**: Time and space complexity analysis.
+    - **Complexity Analysis**: Time and space complexity analysis
 
 - **Study Notes**: Each folder in this directory contains markdown files (`.md`) with notes and explanations on various topics. These files include detailed explanations, examples, and references to additional resources.
 
