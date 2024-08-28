@@ -41,4 +41,4 @@ Navigate the Repository
 
 ## Contributing
 
-If you have suggestions for improvements or want to contribute new solutions or study notes, feel free to submit a pull request. Contributions are welcome!
+If you have suggestions for improvements or want to contribute new solutions or study notes, feel free to submit a pull request.
