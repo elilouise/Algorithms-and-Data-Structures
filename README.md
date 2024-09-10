@@ -6,7 +6,7 @@ The purpose of this repository is to document my journey of continuous learning 
 
 This repository is organized into several directories based on different categories of problems and topics:
 
-- **LeetCode Solutions**: Contains solutions to various LeetCode problems, categorized by topic and difficulty.
+- **LeetCode Solutions**: Contains detailed solutions to various LeetCode problems, categorized by topic and difficulty.
   - **Arrays and Hashing**
   - **Binary Search**
   - **Linked Lists**
