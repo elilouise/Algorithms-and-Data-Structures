@@ -19,7 +19,7 @@ This repository is organized into several directories based on different categor
   - **System Design**: Principles and best practices for designing scalable and efficient systems.
   - **Linux Fundamentals**: Key commands, tips, and best practices for working with Linux.
 
-Navigate the Repository
+Navigate the Repository.
 
 - **LeetCode Solutions**: Each folder within the "LeetCode Solutions" directory corresponds to a topic (e.g., Arrays, Linked Lists). Inside each folder, you will find subfolders for each difficulty level (Easy, Medium, Hard). Each solution is provided in a separate file named after the problem title (e.g., `two-sum.ipynb` for the "Two Sum" problem).
 
