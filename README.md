@@ -6,7 +6,7 @@ The purpose of this repository is to document my journey of continuous learning 
 
 This repository is organized into several directories based on different categories of problems and topics:
 
-- **Algorithms and Data Structures**: Contains detailed solutions to various LeetCode problems, categorized by topic and difficulty.
+- **Algorithms and Data Structures**: Contains detailed solutions to various DSA (LeetCode) problems, categorized by topic and difficulty.
   - **Arrays and Hashing**
   - **Binary Search**
   - **Linked Lists**
