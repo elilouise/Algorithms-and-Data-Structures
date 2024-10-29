@@ -6,7 +6,7 @@ The purpose of this repository is to document my journey of continuous learning 
 
 This repository is organized into several directories based on different categories of problems and topics:
 
-- **LeetCode Solutions**: Contains detailed solutions to various LeetCode problems, categorized by topic and difficulty.
+- **Algorithms and Data Structures**: Contains detailed solutions to various LeetCode problems, categorized by topic and difficulty.
   - **Arrays and Hashing**
   - **Binary Search**
   - **Linked Lists**
@@ -21,7 +21,7 @@ This repository is organized into several directories based on different categor
 
 Navigate the Repository
 
-- **LeetCode Solutions**: Each folder within the "LeetCode Solutions" directory corresponds to a topic (e.g., Arrays, Linked Lists). Inside each folder, you will find subfolders for each difficulty level (Easy, Medium, Hard). Each solution is provided in a separate file named after the problem title (e.g., `two-sum.ipynb` for the "Two Sum" problem).
+- **Algorithms and Data Structures**: Each folder within the "Algorithms and Data Structures" directory corresponds to a topic (e.g., Arrays, Linked Lists). Inside each folder, you will find subfolders for each difficulty level (Easy, Medium, Hard). Each solution is provided in a separate file named after the problem title (e.g., `two-sum.ipynb` for the "Two Sum" problem).
 
   - Each solution file contains:
     - **Problem Statement**: A brief description of the problem.
@@ -35,7 +35,7 @@ Navigate the Repository
 
 ## How to Use This Repository
 
-1. **LeetCode Practice**: Browse through the "LeetCode Solutions" directory to find solutions to specific problems. Review the problem statement and try to solve it on your own before checking the solution.
+1. **Algorithms and Data Structures Practice**: Browse through the "Algorithms and Data Structures" directory to find solutions to specific DSA problems. Review the problem statement and try to solve it on your own before checking the solution.
 2. **Study Notes**: Use the "Study Notes" directory to reinforce your understanding of fundamental concepts. These notes are useful for interview preparation and understanding key topics in computer science.
 3. **Projects**: Explore the "Projects" directory to see practical applications of the concepts studied. Try running the scripts and modifying them to deepen your understanding.
 
