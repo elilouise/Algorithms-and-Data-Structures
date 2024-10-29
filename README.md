@@ -1,4 +1,4 @@
-This repository is a collection of my solutions to various LeetCode problems, along with my study notes on fundamental computer science topics, Linux, and system design. 
+This repository is a collection of my solutions to various Algorithms and Data Structures problems, along with my study notes on fundamental computer science topics, Linux, and system design. 
 
 The purpose of this repository is to document my journey of continuous learning and improvement in software engineering.
 
